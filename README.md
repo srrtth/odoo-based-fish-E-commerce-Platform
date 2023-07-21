@@ -1,4 +1,3 @@
-# odoo-based-fish-E-commerce-Platform
 # Odoo-based Fish E-commerce Platform
 
 
