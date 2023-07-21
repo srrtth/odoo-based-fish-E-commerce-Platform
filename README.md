@@ -1,9 +1,8 @@
 # odoo-based-fish-E-commerce-Platform
 # Odoo-based Fish E-commerce Platform
 
-![Platform Screenshot](screenshot.png)
 
-An advanced Odoo-based fish e-commerce platform for buying and selling aquarium fishes. This platform allows users to browse and purchase a wide variety of aquarium fishes, leave reviews, and manage their shopping cart and orders. The platform also provides features like fish categorization, user favorites, and user notifications.
+An outline for an Odoo-based fish e-commerce platform for buying and selling aquarium fishes. This platform allows users to browse and purchase a wide variety of aquarium fishes, leave reviews, and manage their shopping cart and orders. The platform also provides features like fish categorization, user favorites, and user notifications.
 
 ## Features
 
